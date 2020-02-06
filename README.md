@@ -1,8 +1,10 @@
-# py_torch
-deep learning for math
+# PyTorch Tutorial
+Deep Learning for math
 
-numpy.array and torch.tensor both take list of list value and work in relation to with each other.
+## Introduction 
+Deep learning is a subset of ML , involving training of ANN.
 
-# deep learning with py_torch
-Deep learning is a subset of ML , involving training of ANN
+
+
+
 
